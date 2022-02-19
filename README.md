@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6ANTSE)
 <div align="center">
     <h3>Hey! I'm Taki! 👋<br>I like to do lots of cool stuff with technology! </h3>
     <h4> <a href="https://takisdo.dev">Website</a> │ <a href="https://discord.gg/7UsZfHw8DU">My Discord</a> │ <a href="mailto://takisdo@pm.me">Email me!</h4>
