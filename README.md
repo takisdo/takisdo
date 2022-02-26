@@ -24,4 +24,5 @@
        <h4> python go brrrrrr ez </h4>
     <br>
     <h2> Don't be a sussy imposter </h2>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=takisdo&show_icons=true&locale=en&layout=compact" alt="takisdo" /></p>
   </div>
