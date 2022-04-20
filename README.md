@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U6ANTSE)
 <div align="center">
-    <h3>Hey! I'm Taki! 👋<br>I like to do lots of cool stuff with technology! </h3>
+    <h3>Hey! I'm taki! 👋<br>I like to do lots of cool stuff with technology! </h3>
     <h4> <a href="https://takisdo.dev">Website</a> │ <a href="https://discord.gg/7UsZfHw8DU">My Discord</a> │ <a href="mailto://takisdo@pm.me">Email me!</h4>
        <p align="center"> <a href="https://twitter.com/felixbnt_" target="blank"><img src="https://img.shields.io/twitter/follow/takisdo?logo=twitter&style=for-the-badge" alt="taki twitter" /></a> </p>
     <hr width="50%" style="height:5px;">
